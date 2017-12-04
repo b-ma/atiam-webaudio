@@ -57,10 +57,10 @@ Lonce Wyse. _Spatially Distributed Sound Computing and Rendering Using the Web A
 
 ### Collective Soundworks [https://github.com/collective-soundworks/](https://github.com/collective-soundworks/)
 
-**soundworks  - Framework for real-time and distributed experiences**
+_Framework for real-time and distributed experiences_
 
 http://wac.ircam.fr/pdf/demo/wac15_submission_30.pdf (outdated)
 
-https://github.com/collective-soundworks/soundworks - framework
-https://github.com/collective-soundworks/soundworks-template - application boilerplate
+- framework - https://github.com/collective-soundworks/soundworks
+- application boilerplate - https://github.com/collective-soundworks/soundworks-template
 
