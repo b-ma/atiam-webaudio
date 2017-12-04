@@ -22,22 +22,22 @@ Lonce Wyse. _Spatially Distributed Sound Computing and Rendering Using the Web A
 - jsdoc [http://usejsdoc.org/](http://usejsdoc.org/)
 
 
-## Documentation
+## Javascript documentation
 
-#### websites
+**websites**
 
 - [https://developer.mozilla.org/fr/](https://developer.mozilla.org/fr/)
 - [https://babeljs.io/learn-es2015/](https://babeljs.io/learn-es2015/)
 - [http://2ality.com/](http://2ality.com/)
 - [http://javascript.info/](http://javascript.info/)
 
-#### Book
+**Book**
 
-- "Javascript, the good parts - Crockford [https://www.amazon.fr/Javascript-Good-Parts-D-Crockford/dp/0596517742](https://www.amazon.fr/Javascript-Good-Parts-D-Crockford/dp/0596517742) (_old fashioned javascript, but still interesting_)
+- _Javascript, the good parts_ - Crockford [https://www.amazon.fr/Javascript-Good-Parts-D-Crockford/dp/0596517742](https://www.amazon.fr/Javascript-Good-Parts-D-Crockford/dp/0596517742) (_old fashioned javascript, but still interesting_)
 
-## Librairies
+## Librairies developed at IRCAM
 
-#### Waves [https://github.com/wavesjs/](https://github.com/wavesjs/)
+### Waves [https://github.com/wavesjs/](https://github.com/wavesjs/)
 
 **waves-audio   - Audio synthesis and scheduling**
 
@@ -48,14 +48,14 @@ Lonce Wyse. _Spatially Distributed Sound Computing and Rendering Using the Web A
 - https://hal.archives-ouvertes.fr/hal-01256945/document
 - https://smartech.gatech.edu/bitstream/handle/1853/54599/WAC2016-83.pdf
 
-**waves-lfo   - Processing and filtering of data streams **
+**waves-lfo   - Processing and filtering of data streams**
 
 - http://eecs.qmul.ac.uk/~keno/39.pdf
 
 **waves-loaders - Simple abstraction for loading audio buffers**
 
 
-#### Collective Soundworks [https://github.com/collective-soundworks/](https://github.com/collective-soundworks/)
+### Collective Soundworks [https://github.com/collective-soundworks/](https://github.com/collective-soundworks/)
 
 **soundworks  - Framework for real-time and distributed experiences**
 
