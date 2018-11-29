@@ -1,2 +1,1 @@
-import './simple-example';
-// import './full-example';
+import './full-example';
