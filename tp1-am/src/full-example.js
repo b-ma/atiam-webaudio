@@ -1,4 +1,4 @@
-import * as controllers from 'basic-controllers';
+import * as controllers from '@ircam/basic-controllers';
 
 // 1. create audio context
 // --------------------------------------------------------------

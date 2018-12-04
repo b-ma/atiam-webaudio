@@ -26,7 +26,7 @@ class PlayerExperience extends soundworks.Experience {
     super.start();
 
     this.view = new soundworks.View(template, {}, {
-      'touchstart': () => this.triggerEcho(),
+      'click': () => this.triggerEcho(),
     }, {
       id: this.id,
     });
@@ -38,7 +38,15 @@ class PlayerExperience extends soundworks.Experience {
   }
 
   triggerEcho() {
-    // ...
+    const echoParams = {
+      index: 0,
+      // source: client.index,
+      // gain: 1,
+      time: this.sync.getSyncTime(),
+    };
+
+    this.playSound(echoParams);
+    // this.forwardEcho(echoParams);
   }
 
   playSound(echoParams) {

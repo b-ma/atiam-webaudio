@@ -1,4 +1,4 @@
-## Papers
+-## Papers
 
 Steven Yi Victor Lazzarini et Joseph Timoney. _Web Audio: Some
 Critical Considerations_. In : VI Ubimus. 2015.

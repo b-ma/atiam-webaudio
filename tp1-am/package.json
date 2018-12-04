@@ -14,8 +14,8 @@
     "postinstall": "npm run bundle"
   },
   "dependencies": {
-    "babel-runtime": "^6.9.2",
-    "basic-controllers": "github:ircam-jstools/basic-controllers"
+    "@ircam/basic-controllers": "^1.0.4",
+    "babel-runtime": "^6.9.2"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",
